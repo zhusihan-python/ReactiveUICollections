@@ -3,8 +3,11 @@ ReactiveUI Collections
 
 a repo collect ReactiveUI demos, and fix them to run under .NET 8 and ReactiveUI 20.1.63
 
-1、https://github.com/gardnerbp/WinFormsRXUI.git<br>
+1.https://github.com/gardnerbp/WinFormsRXUI.git<br>
 comes from code project: [Using ReactiveUI for WinForms MVVM Design](https://www.codeproject.com/Articles/801986/Using-ReactiveUI-for-WinForms-MVVM-Design)
 
-2、https://github.com/nakamulab/ReactiveUI-WinForms-Sample
+2.https://github.com/nakamulab/ReactiveUI-WinForms-Sample
 demo project combine text from 2 textbox
+
+3.https://github.com/woodwen/Demo.ReactiveUI.Winforms.git
+contains 3 demos: Bindinds Commands Routing
