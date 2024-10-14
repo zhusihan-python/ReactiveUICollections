@@ -14,3 +14,6 @@ contains 3 demos: Bindinds Commands Routing
 
 4.https://github.com/rallets/winforms-reactiveui-demo.git<br>
 Winforms .net Core 6 + ReactiveUI and DynamicData
+
+5.https://github.com/ssoshchepkov/tic-tac-toe.git<br>
+WinForms / ReactiveUI Tic-tac-toe game
